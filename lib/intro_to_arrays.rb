@@ -7,13 +7,13 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  
+  array.first
 end
 
 def third_element(array)
-  
+  array.third
 end
 
 def last_element(array)
-  
+  array.last
 end
